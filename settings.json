@@ -1,0 +1,12 @@
+{
+  "token": "OTE3NDQzMjAzNDA0MjgzOTU0.GcxTnE.0BSLH2L76AtSgT1w1DaMcQayuaU4lkbrJXrpDc",
+  "prefix" : "+",
+  "owner" : ["738332154097827893","973204560392904734",""],
+  "clientid" : "917443203404283954",
+  "clientsecret" : "ped2-t20CzOjEcCJEE7zpkY6y-6M7qw_",
+  "clientcallback" : "https://bald-prairie-marigold.glitch.me/callback",
+  "mongoURL" : "mongodb+srv://testmongo:19071998iv@cluster0.qbugkaf.mongodb.net/?retryWrites=true&w=majority",
+  "serverID": "973193173050458132",
+  "footer": "GLOBAL FOOTER",
+  "tags": ["Moderation", "Fun", "Music","Economy","Guard","NSFW","Anime","Invite","Minecraft","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish"]
+}
